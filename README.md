@@ -15,7 +15,7 @@ Also, it would be beneficial to take a look at all schools to see type of school
 
 Replacing the ninth graders math and reading scores, overall doesn't affect either scores.  The analysis was done in possibilty that the scores for ninth graders were not include which could possibly affect overall test scores in the grade as well as bring down school overall averages. In most cases this equates to possible budgeting costs as well.
 
-#Summary
+# Summary
 The only difference between the scores is that under the ninth graders that attended Thomas High School is shown as Nan.
 
 <img width="468" alt="Test score with Nan" src="https://user-images.githubusercontent.com/85530690/125226703-8f7ddd00-e29f-11eb-8c18-b79592692efe.png">
@@ -24,5 +24,11 @@ The only difference between the scores is that under the ninth graders that atte
 - Overall passing percentage doesn't change.
 - Scores by school type are not altered at all.
 
-##Conclusion
+# Conclusion
 After we replace the scores of the ninth grade students we learn that not much has changed.   We have nullified  values we felt would alter size, district, spending and overall passing percentage of the students.  
+
+
+**Programs used:
+Pandas
+Python
+Jupyter Notebook
